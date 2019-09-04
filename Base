@@ -1,1 +1,4 @@
-
+name = "Onanma".reverse
+name = "Onanma".downcase
+name = "Onanma".upcase
+name.reverse.downcase.upcase
